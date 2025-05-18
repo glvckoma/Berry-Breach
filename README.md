@@ -1,5 +1,9 @@
 # BerryBreach Account Manager
 
+**⚠️ WARNING: RISK OF IP BAN ⚠️**
+
+**Using BerryBreach to check accounts carries a significant risk of your IP address being temporarily or permanently banned by Animal Jam. This tool automates requests to Animal Jam's servers, which can be detected and flagged as suspicious activity. USE AT YOUR OWN RISK. The developers of BerryBreach are not responsible for any action taken against your IP or Animal Jam accounts.**
+
 BerryBreach helps you manage and check the status of your Animal Jam Classic accounts.
 
 ## Features
@@ -17,7 +21,7 @@ BerryBreach helps you manage and check the status of your Animal Jam Classic acc
 
 ## Support
 
-If you encounter any issues or have questions, please join our [Discord Server](https://discord.gg/Nu2eE6d38a) for support.
+If you encounter any issues or have questions, please join our [Discord Server](https://discord.gg/a2y6bZnhB3) for support.
 
 ---
 *This repository hosts the releases for BerryBreach. The application will automatically update to the latest version.*
